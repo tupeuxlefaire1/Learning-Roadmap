@@ -1,6 +1,8 @@
 # Projects
 
-##Use chatgpt to create these projects with the contents given in the links
+# Dont forget to clean the resourcs once done with the projects or else be ready to pay money to aws.
+
+## Use chatgpt to create these projects with the contents given in the links
 
 ## Free lab with screenshots
 1. Go to this page - **[Link](https://github.com/thyagomota/aws-labs?tab=readme-ov-file)**
