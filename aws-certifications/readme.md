@@ -30,3 +30,10 @@ Stay prepared and organized for your AWS Solutions Architect certification with 
    GitHub repo with categorized MCQs and detailed solutions.
 
 ---
+### ❓ MCQs & Exam Dumps
+1. 🗂️ [Labs (to understand things better)](https://k21academy.com/amazon-web-services/aws-certified-solution-architect-associate-saa-c02-step-by-step-activity-guides-hands-on-labs/#Athena_is_easy_to_use_which_points_to_your_data_in_S3_defines_the_schema_and_starts_querying_using_SQL_Mostly_the_results_are_delivered_within_seconds_which_makes_it_easy_for_everyone_with_SQL_skills_to_quickly_analyze_large_scale_datasets)  
+   Comprehensive list of real exam-style questions.
+2. 📜 [Answers](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/blob/main/AWS%20SAA-03%20Solution.txt)  
+3. 📘 [Practice Tests with Answers](https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#which-set-of-amazon-s3-features-helps-to-prevent-and-recover-from-accidental-data-loss)  
+   GitHub repo with categorized MCQs and detailed solutions.
+
