@@ -38,5 +38,3 @@ Leverage ChatGPT to assist in building these projects. Just share the content fr
 > 📝 *Note:* The same Amplify project was listed twice — update if needed.
 
 ---
-
-Need help setting up any of these projects? Just ask — I can walk you through every step.
