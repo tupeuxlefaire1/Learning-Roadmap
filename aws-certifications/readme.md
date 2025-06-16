@@ -23,9 +23,10 @@ Stay prepared and organized for your AWS Solutions Architect certification with 
 ---
 
 ### ❓ MCQs & Exam Dumps
+MCQS - [link](https://certyiq.com/papers/amazon/aws-certified-solutions-architect-associate-saa-c03/1)
 1. 🗂️ [MCQs PDF (Questions)](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/blob/main/AWS%20Certified%20Solutions%20Architect%20Associate%20SAA-C03.pdf)  
    Comprehensive list of real exam-style questions.
-2. 📜 [Answers](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/blob/main/AWS%20SAA-03%20Solution.txt)  
+ 📜 [Answers](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/blob/main/AWS%20SAA-03%20Solution.txt)  
 3. 📘 [Practice Tests with Answers](https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#which-set-of-amazon-s3-features-helps-to-prevent-and-recover-from-accidental-data-loss)  
    GitHub repo with categorized MCQs and detailed solutions.
 
