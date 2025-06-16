@@ -1,6 +1,4 @@
-# 🌱 Cloud Certifications Hub
-
-> ✨ Stay organized and exam-ready for your **AWS Certified Solutions Architect – Associate** with these curated, high-quality resources.
+# 🌱 AWS Certifications
 
 ---
 
