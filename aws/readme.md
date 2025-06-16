@@ -1,20 +1,42 @@
-# Projects
+# 🚀 Cloud Projects (AWS Focused)
 
-# Dont forget to clean the resourcs once done with the projects or else be ready to pay money to aws.
+> ⚠️ **Important:**  
+> Don’t forget to **delete/clean up resources** after completing each project — or AWS will happily bill you. 💸
 
-## Use chatgpt to create these projects with the contents given in the links
+---
 
-## Free lab with screenshots
-1. Go to this page - **[Link](https://github.com/thyagomota/aws-labs?tab=readme-ov-file)**
+## 🤖 Use ChatGPT for Help  
+Leverage ChatGPT to assist in building these projects. Just share the content from the linked guides and ask for explanations or code!
 
-## Free Projects Simple projects
+---
 
-### 1. Scheduling EC2 Instances for Off-Hours **[link](https://github.com/Kevin-byt/AWS-Projects/tree/main/Lambda/Start-Stop-EC2)**
-### 2. Auto Scaling **[link](https://github.com/Kevin-byt/AWS-Projects/tree/main/Auto%20Scaling)**
-### 3. Data Insights with AWS QuickSight and Amazon S3 **[link](https://github.com/Kevin-byt/AWS-Projects/tree/main/Data%20Visualization%20with%20QuickSight%20and%20S3)**
+## 🧪 Free Labs with Step-by-Step Screenshots
 
-## Free Projects complex projects
-### 1. Serverless Web App Project **[link](https://github.com/Kevin-byt/AWS-Projects/tree/main/Amplify)**
-### 2. Serverless Web App Project **[link](https://github.com/Kevin-byt/AWS-Projects/tree/main/Amplify)**
+- 📸 **[AWS Labs Repository (with screenshots)](https://github.com/thyagomota/aws-labs?tab=readme-ov-file)**  
+  Beginner-friendly labs with detailed instructions and images.
 
+---
 
+## 🛠️ Free Simple AWS Projects
+
+1. 🕒 **[Schedule EC2 Instances for Off-Hours](https://github.com/Kevin-byt/AWS-Projects/tree/main/Lambda/Start-Stop-EC2)**  
+   Automate starting/stopping EC2 instances during non-working hours.
+
+2. 📈 **[Auto Scaling Setup](https://github.com/Kevin-byt/AWS-Projects/tree/main/Auto%20Scaling)**  
+   Set up dynamic scaling for EC2 based on traffic or CPU usage.
+
+3. 📊 **[Data Insights with QuickSight & S3](https://github.com/Kevin-byt/AWS-Projects/tree/main/Data%20Visualization%20with%20QuickSight%20and%20S3)**  
+   Visualize your S3 data using AWS QuickSight.
+
+---
+
+## 🔧 Free Complex AWS Projects
+
+1. 🌐 **[Serverless Web App using Amplify](https://github.com/Kevin-byt/AWS-Projects/tree/main/Amplify)**  
+   Build a fully serverless web app leveraging AWS Amplify (Hosting, Auth, APIs, Storage).
+
+> 📝 *Note:* The same Amplify project was listed twice — update if needed.
+
+---
+
+Need help setting up any of these projects? Just ask — I can walk you through every step.
