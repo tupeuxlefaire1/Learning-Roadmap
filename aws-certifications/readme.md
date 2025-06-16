@@ -30,5 +30,3 @@ Stay prepared and organized for your AWS Solutions Architect certification with 
    GitHub repo with categorized MCQs and detailed solutions.
 
 ---
-
-Would you like this turned into a downloadable `.md` file or want a table view version for Notion/Obsidian use?
