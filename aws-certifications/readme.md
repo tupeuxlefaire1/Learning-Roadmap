@@ -54,5 +54,3 @@ Realistic exam-style questions with detailed solutions.
 | 🏗️ Design Resilient Architectures | [Start Practicing](https://easy-prep.org/aws-solutions-architect-associate-exam-questions/design-resilient-architectures-practice-test#level-1) |
 
 ---
-
-> 🛠 Tip: Pair these resources with real AWS project deployments (EC2, Lambda, VPC, S3) to make your prep stronger and job-ready.
